@@ -1,0 +1,402 @@
+{
+  "betrayal_rewards": [
+    {
+      "member": "Aisling",
+      "image": "https://www.poewiki.net/images/thumb/b/b2/Aisling_Laffrey%2C_The_Silent_Butcher.png/120px-Aisling_Laffrey%2C_The_Silent_Butcher.png",
+      "color": "orange",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Double Veiled Items"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Veiled Exalt (Crafting Bench)"
+        },
+        {
+          "name": "Research",
+          "effect": "Veiled Chaos (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Torment Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Jorgin",
+      "image": "https://www.poewiki.net/images/thumb/1/1e/Thane_Jorgin_the_Banished.png/120px-Thane_Jorgin_the_Banished.png",
+      "color": "orange",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Sulphite Scarabs"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Delve Equipment (Trapped Chest)"
+        },
+        {
+          "name": "Research",
+          "effect": "Talisman (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Bestiary Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Cameria",
+      "image": "https://www.poewiki.net/images/thumb/b/b9/Cameria_the_Coldblooded.png/120px-Cameria_the_Coldblooded.png",
+      "color": "red",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Abyss Scarabs"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Jewel (Trapped Chest)"
+        },
+        {
+          "name": "Research",
+          "effect": "Jewel (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Delirium Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Korell",
+      "image": "https://www.poewiki.net/images/thumb/5/53/Korell_Goya%2C_Son_of_Stone.png/120px-Korell_Goya%2C_Son_of_Stone.png",
+      "color": "orange",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Anarchy Scarabs"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Essence Equipment (Trapped Chest)"
+        },
+        {
+          "name": "Research",
+          "effect": "Essences (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Essence Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Elreon",
+      "image": "https://www.poewiki.net/images/thumb/f/f2/Elreon%2C_Light%27s_Judge.png/120px-Elreon%2C_Light%27s_Judge.png",
+      "color": "red",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Fragments"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Corrupted Equipment (Trapped Chest)"
+        },
+        {
+          "name": "Research",
+          "effect": "Tainted (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Beyond Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Leo",
+      "image": "https://www.poewiki.net/images/thumb/6/67/Hillock%2C_the_Blacksmith.png/120px-Hillock%2C_the_Blacksmith.png",
+      "color": "orange",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Incursion Scarabs"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Corrupted Unique (Trapped Chest)"
+        },
+        {
+          "name": "Research",
+          "effect": "Djinn Vaal Orb (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Ultimatum Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Gravicious",
+      "image": "https://www.poewiki.net/images/thumb/1/14/Gravicius_Reborn.png/120px-Gravicius_Reborn.png",
+      "color": "green",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Stack of Div Cards",
+          "bold": "true"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Div Card (Trapped Chest)"
+        },
+        {
+          "name": "Research",
+          "effect": "Swap Div Card"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Divination Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Riker",
+      "image": "https://www.poewiki.net/images/thumb/5/5f/Riker_Maloney%2C_Midnight_Tinkerer.png/120px-Riker_Maloney%2C_Midnight_Tinkerer.png",
+      "color": "green",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Unique Items"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Unique Item (Trapped Chest)"
+        },
+        {
+          "name": "Research",
+          "effect": "Ancient Orb (Crafting Bench)",
+          "bold": "true"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Titanic Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Guff",
+      "image": "https://www.poewiki.net/images/thumb/8/82/Guff_Tiny_Grenn.png/120px-Guff_Tiny_Grenn.png",
+      "color": "yellow",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Misc. Currency"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Rare Equipment (Trapped Chest)"
+        },
+        {
+          "name": "Research",
+          "effect": "Mist (Crafting Bench)",
+          "bold":"true"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Blight Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Rin",
+      "image": "https://www.poewiki.net/images/thumb/c/c8/Rin_Yuushu_portrait.png/120px-Rin_Yuushu_portrait.png",
+      "color": "yellow",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Map Currency",
+          "bold":"true"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Unique Map (Trapped Chest)"
+        },
+        {
+          "name": "Research",
+          "effect": "Map (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Cartography Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Haku",
+      "image": "https://www.poewiki.net/images/thumb/0/0b/Haku%2C_Warmaster.png/120px-Haku%2C_Warmaster.png",
+      "color": "orange",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Unique Strongbox"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Domination Scarabs"
+        },
+        {
+          "name": "Research",
+          "effect": "Influence (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Ambush Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Tora",
+      "image": "https://www.poewiki.net/images/thumb/1/11/Tora%2C_the_Culler.png/120px-Tora%2C_the_Culler.png",
+      "color": "yellow",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Quality Gems / XP Lens"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Gem (Trapped Chest)"
+        },
+        {
+          "name": "Research",
+          "effect": "Gem (Crafting Bench)",
+          "bold":"true"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Ritual Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Hillock",
+      "image": "https://www.poewiki.net/images/thumb/6/67/Hillock%2C_the_Blacksmith.png/120px-Hillock%2C_the_Blacksmith.png",
+      "color": "orange",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Influenced Equipment (Trapped Chest)"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Influenced Equipment (Crafting Bench)"
+        },
+        {
+          "name": "Research",
+          "effect": "Eldritch Implicit (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Influenced Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Vagan",
+      "image": "https://www.poewiki.net/images/thumb/c/c4/Vagan%2C_Victory%27s_Herald.png/120px-Vagan%2C_Victory%27s_Herald.png",
+      "color": "orange",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Harbinger Scarabs"
+        },
+        {
+          "name": "Fortification",
+          "effect": "\"Testing the limits of Incubators\" (Bugged??)"
+        },
+        {
+          "name": "Research",
+          "effect": "Chaos w/ Fracture (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Legion Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "It That Fled",
+      "image": "https://www.poewiki.net/images/thumb/9/9b/It_That_Fled.png/120px-It_That_Fled.png",
+      "color": "red",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Breach Corrupted Maps"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Breachstone Bargain for Map Device"
+        },
+        {
+          "name": "Research",
+          "effect": "Tainted Sockets (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Breach Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Vorici",
+      "image": "https://www.poewiki.net/images/thumb/7/7f/Vorici%2C_Silent_Brother.png/120px-Vorici%2C_Silent_Brother.png",
+      "color": "green",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Stack of Currency",
+          "bold":"true"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Chrome/Jeweler/Fusing Your Item (Crafting bench)"
+        },
+        {
+          "name": "Research",
+          "effect": "Chance/Scour Your Item (Crafting Bench)"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Harvest Scarabs"
+        }
+      ]
+    },
+    {
+      "member": "Janus",
+      "image": "https://www.poewiki.net/images/thumb/8/8b/Janus_Perandus_portrait.png/120px-Janus_Perandus_portrait.png",
+      "color": "green",
+      "divisions": [
+        {
+          "name": "Transportation",
+          "effect": "Gold Piles"
+        },
+        {
+          "name": "Fortification",
+          "effect": "Kaguuran Scarabs"
+        },
+        {
+          "name": "Research",
+          "effect": "Cadiro's Offer (Buy Unique)",
+          "bold":"true"
+        },
+        {
+          "name": "Intervention",
+          "effect": "Expedition Scarabs"
+        }
+      ]
+    }
+  ]
+}
