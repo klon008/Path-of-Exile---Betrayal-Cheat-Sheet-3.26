@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://klon008.github.io/react-betrayal-table",
+  "homepage": "https://klon008.github.io/Path-of-Exile---Betrayal-Cheat-Sheet-3.26",
   "dependencies": {
     "modern-normalize": "^3.0.1",
     "react": "^19.1.0",
