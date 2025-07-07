@@ -34,6 +34,16 @@ body {
   width: 100%;
   font-size: 14px;
   overflow: hidden;
+
+  user-select: none; /* Запрещает выделение текста */
+  -webkit-user-select: none; /* Для Safari */
+  -moz-user-select: none; /* Для Firefox */
+  -ms-user-select: none; /* Для старых версий IE/Edge */
+  background-color: var(--bg-color);
+}
+.betrayal-table {
+  font-smoothing: antialiased !important;
+  -webkit-font-smoothing: antialiased !important;
 }
 
 .betrayal-table table {
@@ -52,6 +62,12 @@ body {
   word-break: break-word;
   overflow-wrap: break-word;
 }
+.betrayal-table td:not(:first-child) {
+  cursor: pointer;
+}
+.betrayal-table td:not(:first-child):hover {
+  filter:brightness(0.9);
+}
 
 .betrayal-table th {
   background-color: var(--header-bg);
@@ -64,10 +80,6 @@ body {
   background-color: var(--header-bg);
   font-weight: 600;
   text-align: left;
-}
-
-.betrayal-table td:not(.division-header):hover {
-  /*background-color: var(--hover-color); */
 }
 
 /* Оптимизация для мобильных */

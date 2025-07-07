@@ -2,7 +2,7 @@
   "betrayal_rewards": [
     {
       "member": "Aisling",
-      "image": "https://www.poewiki.net/images/thumb/b/b2/Aisling_Laffrey%2C_The_Silent_Butcher.png/120px-Aisling_Laffrey%2C_The_Silent_Butcher.png",
+      "image": "./images/Aisling.png",
       "color": "orange",
       "divisions": [
         {
@@ -25,7 +25,7 @@
     },
     {
       "member": "Jorgin",
-      "image": "https://www.poewiki.net/images/thumb/1/1e/Thane_Jorgin_the_Banished.png/120px-Thane_Jorgin_the_Banished.png",
+      "image": "./images/Jorgin.png",
       "color": "orange",
       "divisions": [
         {
@@ -48,7 +48,7 @@
     },
     {
       "member": "Cameria",
-      "image": "https://www.poewiki.net/images/thumb/b/b9/Cameria_the_Coldblooded.png/120px-Cameria_the_Coldblooded.png",
+      "image": "./images/Cameria.png",
       "color": "red",
       "divisions": [
         {
@@ -71,7 +71,7 @@
     },
     {
       "member": "Korell",
-      "image": "https://www.poewiki.net/images/thumb/5/53/Korell_Goya%2C_Son_of_Stone.png/120px-Korell_Goya%2C_Son_of_Stone.png",
+      "image": "./images/Korell.png",
       "color": "orange",
       "divisions": [
         {
@@ -94,7 +94,7 @@
     },
     {
       "member": "Elreon",
-      "image": "https://www.poewiki.net/images/thumb/f/f2/Elreon%2C_Light%27s_Judge.png/120px-Elreon%2C_Light%27s_Judge.png",
+      "image": "./images/Elreon.png",
       "color": "red",
       "divisions": [
         {
@@ -117,7 +117,7 @@
     },
     {
       "member": "Leo",
-      "image": "https://www.poewiki.net/images/thumb/c/c7/Leo%2C_Wolf_of_the_Pits.png/120px-Leo%2C_Wolf_of_the_Pits.png",
+      "image": "./images/Leo.png",
       "color": "orange",
       "divisions": [
         {
@@ -140,13 +140,14 @@
     },
     {
       "member": "Gravicious",
-      "image": "https://www.poewiki.net/images/thumb/1/14/Gravicius_Reborn.png/120px-Gravicius_Reborn.png",
+      "image": "./images/Gravicious.png",
       "color": "green",
       "divisions": [
         {
           "name": "Transportation",
           "effect": "Stack of Div Cards",
-          "bold": "true"
+          "bold": "true",
+          "color": "green"
         },
         {
           "name": "Fortification",
@@ -164,7 +165,7 @@
     },
     {
       "member": "Riker",
-      "image": "https://www.poewiki.net/images/thumb/5/5f/Riker_Maloney%2C_Midnight_Tinkerer.png/120px-Riker_Maloney%2C_Midnight_Tinkerer.png",
+      "image": "./images/Riker.png",
       "color": "green",
       "divisions": [
         {
@@ -178,7 +179,8 @@
         {
           "name": "Research",
           "effect": "Ancient Orb (Crafting Bench)",
-          "bold": "true"
+          "bold": "true",
+          "color": "green"
         },
         {
           "name": "Intervention",
@@ -188,7 +190,7 @@
     },
     {
       "member": "Guff",
-      "image": "https://www.poewiki.net/images/thumb/8/82/Guff_Tiny_Grenn.png/120px-Guff_Tiny_Grenn.png",
+      "image": "./images/Guff.png",
       "color": "yellow",
       "divisions": [
         {
@@ -202,7 +204,8 @@
         {
           "name": "Research",
           "effect": "Mist (Crafting Bench)",
-          "bold":"true"
+          "bold":"true",
+          "color": "yellow"
         },
         {
           "name": "Intervention",
@@ -212,13 +215,14 @@
     },
     {
       "member": "Rin",
-      "image": "https://www.poewiki.net/images/thumb/c/c8/Rin_Yuushu_portrait.png/120px-Rin_Yuushu_portrait.png",
+      "image": "./images/Rin.png",
       "color": "yellow",
       "divisions": [
         {
           "name": "Transportation",
           "effect": "Map Currency",
-          "bold":"true"
+          "bold":"true",
+          "color": "yellow"
         },
         {
           "name": "Fortification",
@@ -236,7 +240,7 @@
     },
     {
       "member": "Haku",
-      "image": "https://www.poewiki.net/images/thumb/0/0b/Haku%2C_Warmaster.png/120px-Haku%2C_Warmaster.png",
+      "image": "./images/Haku.png",
       "color": "orange",
       "divisions": [
         {
@@ -259,7 +263,7 @@
     },
     {
       "member": "Tora",
-      "image": "https://www.poewiki.net/images/thumb/1/11/Tora%2C_the_Culler.png/120px-Tora%2C_the_Culler.png",
+      "image": "./images/Tora.png",
       "color": "yellow",
       "divisions": [
         {
@@ -273,7 +277,8 @@
         {
           "name": "Research",
           "effect": "Gem (Crafting Bench)",
-          "bold":"true"
+          "bold":"true",
+          "color": "yellow"
         },
         {
           "name": "Intervention",
@@ -283,7 +288,7 @@
     },
     {
       "member": "Hillock",
-      "image": "https://www.poewiki.net/images/thumb/6/67/Hillock%2C_the_Blacksmith.png/120px-Hillock%2C_the_Blacksmith.png",
+      "image": "./images/Hillock.png",
       "color": "orange",
       "divisions": [
         {
@@ -306,7 +311,7 @@
     },
     {
       "member": "Vagan",
-      "image": "https://www.poewiki.net/images/thumb/c/c4/Vagan%2C_Victory%27s_Herald.png/120px-Vagan%2C_Victory%27s_Herald.png",
+      "image": "./images/Vagan.png",
       "color": "orange",
       "divisions": [
         {
@@ -329,7 +334,7 @@
     },
     {
       "member": "It That Fled",
-      "image": "https://www.poewiki.net/images/thumb/9/9b/It_That_Fled.png/120px-It_That_Fled.png",
+      "image": "./images/It_That_Fled.png",
       "color": "red",
       "divisions": [
         {
@@ -352,13 +357,14 @@
     },
     {
       "member": "Vorici",
-      "image": "https://www.poewiki.net/images/thumb/7/7f/Vorici%2C_Silent_Brother.png/120px-Vorici%2C_Silent_Brother.png",
+      "image": "./images/Vorici.png",
       "color": "green",
       "divisions": [
         {
           "name": "Transportation",
           "effect": "Stack of Currency",
-          "bold":"true"
+          "bold":"true",
+          "color": "green"
         },
         {
           "name": "Fortification",
@@ -376,7 +382,7 @@
     },
     {
       "member": "Janus",
-      "image": "https://www.poewiki.net/images/thumb/8/8b/Janus_Perandus_portrait.png/120px-Janus_Perandus_portrait.png",
+      "image": "./images/Janus.png",
       "color": "green",
       "divisions": [
         {
@@ -390,7 +396,8 @@
         {
           "name": "Research",
           "effect": "Cadiro's Offer (Buy Unique)",
-          "bold":"true"
+          "bold":"true",
+          "color": "green"
         },
         {
           "name": "Intervention",
